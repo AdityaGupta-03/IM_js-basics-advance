@@ -1,11 +1,11 @@
-// var a =10;
+var a =10;
 
 
-// function sample(){
-//     var a =20;
-// }
+function sample(){
+    var a =20;
+}
 
-// console.log(a)
+console.log(a)
 
 var div = document.getElementById("header")
 console.log(div.innerText)
